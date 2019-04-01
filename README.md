@@ -12,7 +12,12 @@ This data is to be used for research purposes only.
 
 - stance: positive, neutral or negative sentiment towards the president 
 
-- naming form: form used to refer to president out of first-name (FN), last-name (LN), first-name last-name (FNLN), title last-name (TLN) and title first-name last-name (TFNLN) 
+- naming form: form used to refer to president out of
+  * first-name (FN)
+  * last-name (LN)
+  * first-name last-name (FNLN)
+  * title last-name (TLN)
+  * title first-name last-name (TFNLN) 
 
 
 # Reference
