@@ -24,4 +24,4 @@ This data is to be used for research purposes only.
 
 If you use this dataset, please send us a copy of your publication and cite the following paper:
 
-Not My President: How Names and Titles Frame Political Figures, Esther van den Berg, Katharina Korfhage, Josef Ruppenhofer, Michael Wiegand and Katja Markert, the Proceedings of the Third Workshop on NLP and Computational Social Science, (accepted).
+Esther van den Berg, Katharina Korfhage, Josef Ruppenhofer, Michael Wiegand and Katja Markert (in press). Not My President: How Names and Titles Frame Political Figures. In: *Proceedings of the Third Workshop on NLP and Computational Social Science*.
