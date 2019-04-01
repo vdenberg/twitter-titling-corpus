@@ -1,6 +1,7 @@
 # Twitter Titling Corpus
-4002 stance-annotated tweets from 20.06.16 to 30.08.16 mentioning 6 presidents 
-The file twitter-titling-corpus contains 4002 items with labels for target, stance and naming form.
+
+The Twitter Titling Corpus contains 4002 stance-annotated tweets collected between 20.06.2016 and 30.08.2016 mentioning 6 presidents.
+
 This data is to be used for research purposes only.
 
 ---
@@ -15,7 +16,7 @@ person entity mentioned at the tweet who was president at the time of collection
 - country:
 
 country the president was president of at the time of collection
-
+stance
 
 - stance
 
@@ -43,9 +44,8 @@ TLN - title + last name
 TFNLN - title + first name + last name
 
 
----
-Reference
----
+#Reference
+
 If you use this dataset, please send us a copy of your publication and cite the following paper:
 
 Not My President: How Names and Titles Frame Political Figures, Esther van den Berg, Katharina Korfhage, Josef Ruppenhofer, Michael Wiegand and Katja Markert, to be published in the Proceedings of the Third Workshop on NLP and Computational Social Science (accepted).
