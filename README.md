@@ -8,9 +8,7 @@ This data is to be used for research purposes only.
 
 - president: person entity mentioned at the tweet who was president at the time of collection
 
-
 - country: country the president was president of at the time of collection
-stance
 
 - stance: sentiment towards president, label meanings below
 
@@ -23,7 +21,7 @@ Stance label meanings:
 
 - 0: A supporter of the President would feel no or mixed feelings
 
--1: A supporter of the President would feel glad after reading this tweet
+- 1: A supporter of the President would feel glad after reading this tweet
 
 
 Naming form label meanings: 
@@ -43,4 +41,4 @@ Naming form label meanings:
 
 If you use this dataset, please send us a copy of your publication and cite the following paper:
 
-Not My President: How Names and Titles Frame Political Figures, Esther van den Berg, Katharina Korfhage, Josef Ruppenhofer, Michael Wiegand and Katja Markert, to be published in the Proceedings of the Third Workshop on NLP and Computational Social Science (accepted).
+Not My President: How Names and Titles Frame Political Figures, Esther van den Berg, Katharina Korfhage, Josef Ruppenhofer, Michael Wiegand and Katja Markert, the Proceedings of the Third Workshop on NLP and Computational Social Science, (accepted).
