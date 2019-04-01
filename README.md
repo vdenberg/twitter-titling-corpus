@@ -19,24 +19,24 @@ stance
 
 Stance label meanings:
 
--1 - A supporter of the President would feel upset after reading this tweet
+- -1: A supporter of the President would feel upset after reading this tweet
 
-0 - A supporter of the President would feel no or mixed feelings
+- 0: A supporter of the President would feel no or mixed feelings
 
-1 - A supporter of the President would feel glad after reading this tweet
+-1: A supporter of the President would feel glad after reading this tweet
 
 
 Naming form label meanings: 
 
-FN - first name
+- FN: first name
 
-LN - last name
+- LN: last name
 
-FNLN - first name + last name
+- FNLN: first name + last name
 
-TLN - title + last name
+- TLN: title + last name
 
-TFNLN - title + first name + last name
+- TFNLN: title + first name + last name
 
 
 # Reference
