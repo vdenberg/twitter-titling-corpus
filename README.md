@@ -4,9 +4,7 @@ The Twitter Titling Corpus contains 4002 stance-annotated tweets collected betwe
 
 This data is to be used for research purposes only.
 
----
-Explanation of the columns
----
+# Explanation of the columns
 
 - president: person entity mentioned at the tweet who was president at the time of collection
 
@@ -14,9 +12,12 @@ Explanation of the columns
 - country: country the president was president of at the time of collection
 stance
 
-- stance
+- stance: sentiment towards president, label meanings below
 
-Labels have the following meanings:
+- naming form: automatically detected form used to refer to the president, label meanings below
+
+
+Stance label meanings:
 
 -1 - A supporter of the President would feel upset after reading this tweet
 
@@ -25,7 +26,7 @@ Labels have the following meanings:
 1 - A supporter of the President would feel glad after reading this tweet
 
 
-- naming form: automatically detected form used to refer to the president
+Naming form label meanings: 
 
 FN - first name
 
