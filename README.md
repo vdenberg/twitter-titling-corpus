@@ -8,14 +8,10 @@ This data is to be used for research purposes only.
 Explanation of the columns
 ---
 
-- president:
-
-person entity mentioned at the tweet who was president at the time of collection
+- president: person entity mentioned at the tweet who was president at the time of collection
 
 
-- country:
-
-country the president was president of at the time of collection
+- country: country the president was president of at the time of collection
 stance
 
 - stance
@@ -29,9 +25,7 @@ Labels have the following meanings:
 1 - A supporter of the President would feel glad after reading this tweet
 
 
-- naming form
-
-Automatically detected form used to refer to the president
+- naming form: automatically detected form used to refer to the president
 
 FN - first name
 
@@ -44,7 +38,7 @@ TLN - title + last name
 TFNLN - title + first name + last name
 
 
-#Reference
+# Reference
 
 If you use this dataset, please send us a copy of your publication and cite the following paper:
 
