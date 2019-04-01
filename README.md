@@ -10,31 +10,9 @@ This data is to be used for research purposes only.
 
 - country: country the president was president of at the time of collection
 
-- stance: sentiment towards president, label meanings below
+- stance: positive, neutral or negative sentiment towards the president 
 
-- naming form: automatically detected form used to refer to the president, label meanings below
-
-
-Stance label meanings:
-
-- -1: A supporter of the President would feel upset after reading this tweet
-
-- 0: A supporter of the President would feel no or mixed feelings
-
-- 1: A supporter of the President would feel glad after reading this tweet
-
-
-Naming form label meanings: 
-
-- FN: first name
-
-- LN: last name
-
-- FNLN: first name + last name
-
-- TLN: title + last name
-
-- TFNLN: title + first name + last name
+- naming form: form used to refer to president out of first-name (FN), last-name (LN), first-name last-name (FNLN), title last-name (TLN) and title first-name last-name (TFNLN) 
 
 
 # Reference
